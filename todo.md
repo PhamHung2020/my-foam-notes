@@ -1,8 +1,74 @@
 # Todo
 
-You can create todos in Foam.
+## OPNsense
 
-- [x] This is an example of a todo list item that's complete
-- [ ] This one is not completed yet
-- [ ] You can mark it completed by pressing `Option`+`C` (or `Alt`+`C`) when your cursor is on this line
-  - [ ] You can also select multiple lines and mark them all at once!
+Chuyên đề:
+  - 2.2. Xây dựng chức năng quản lý kết nối: 80 trang (**2025/11/12**)
+    - [x] Cơ sở lý thuyết: Phú
+    - [ ] Phân tích thiết kế: Hùng
+    - [ ] Triển khai thử nghiệm: Hùng
+  - 3.3 Xây dựng phần mềm cho dịch vụ kết nối điều khiển từ xa: 80 trang (**2025/11/16**)
+    - [ ] Cơ sở lý thuyết: Phú
+    - [ ] Phân tích thiết kê & Triển khai thử nghiệm: Dũng
+
+OPNsense:
+  - [ ] Viết storyboard (**2025/11/30**)
+
+## CyberLab
+
+- [x] C1: Modify documents based on feedback (**2025/11/10**)
+- [ ] C5: Modify documents, set up environments (**2025/11/13**)
+  
+- C10 (**End of year 2025**)
+  - [ ] Revise all documents
+  - [ ] Set up environments for all lessons
+
+
+## CyberRange
+
+
+## Leacky Stream
+
+- [ ] Slide and script for presentations (**2025/11/16**)
+
+## Ransomware
+
+Pepper (**ASAP**)
+- Learn about GNN
+- Reimplement Pepper
+
+RansomRadar (**ASAP**)
+- [x] Check HPC
+- [ ] Build RansomRadar
+
+## Data Marketplace:
+- [ ] Implement the core architecture (**2025/11/17**)
+
+## Network Security Project
+- [x] Report: use DGA report
+- [ ] Slide (**ASAP**)
+
+## Master Thesis
+
+- Change the topic of the thesis (**ASAP, within November**):
+  - [ ] Obtain the number of the thesis
+  - [ ] Write 2 forms: one for SGX, one for XAI
+  - [ ] Wait until 21st Nov to know if XAI paper is accepted
+  - [ ] Submit 1 of 2 forms
+  
+- Check the schedule (**within November**)
+  - [ ] Submit proposal thesis (**2025/11/15**)
+  - [ ] Write SGX thesis (**2025/11/14**)
+  - [ ] Write XAI thesis (**2025/11/21**)
+ 
+## Others
+
+- [x] Đăng ký tạm trú: đang chờ kết quả
+- Hồ sơ NOXH (**2025/11/23**): [Link tham khảo](https://baodautu.vn/nhung-giay-to-can-co-de-mua-nha-o-xa-hoi-nam-2025-d250898.html)
+  - [ ] Đơn đăng ký
+  - [ ] Giấy tờ chứng minh đối tượng
+  - [ ] Giấy tờ chứng minh điều kiện về nhà ở
+  - [ ] Giấy tờ chứng minh điều kiện về thu nhập
+  - [ ] Bản sao công chứng CCCD
+  - [ ] Giấy xác nhận tình trạng hôn nhân
+  - [ ] Ảnh 4x6
